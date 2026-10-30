@@ -1,0 +1,10 @@
+{
+  "description": "Delivers immersive 3D weather visuals with detailed forecasts, interactive maps, and customizable themes for a premium, user-friendly weather experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
