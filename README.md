@@ -32,7 +32,7 @@
 
 <p align="center">
   <strong>Experience Atmos live:</strong>
-  <a href="https://atmos-weather-app-nu.vercel.app/">https://atmos-weather-app-nu.vercel.app/</a>
+  <a href="https://atmos-weather-app-nu.vercel.app/" target="_blank">https://atmos-weather-app-nu.vercel.app/</a>
 </p>
 
 ---
